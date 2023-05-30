@@ -40,7 +40,7 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 ## Installation
 You just require using composer and you're good to go!
 ````bash
-composer require lasserafn/php-initial-avatar-generator
+composer require naas/php-initial-avatar-generator
 ````
 Rad, *and long*, package name.. huh? Sorry. I'm not very good with names.
 
